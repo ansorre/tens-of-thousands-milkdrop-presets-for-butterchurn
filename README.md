@@ -1,4 +1,4 @@
-# Tens of thousands Milkdrop presets converted for the WebGL Butterchurn Milkdrop Visualizer
+# Tens of thousands of Milkdrop presets converted for the WebGL Butterchurn Milkdrop Visualizer
 This is a collection of 15,056 Milkdrop presets converted in json format to be used with the WebGL Butterchurn Milkdrop Visualizer which can be found [here](https://github.com/jberg/butterchurn).    
 This collection will continue to grow, I still have many thousands more presets to convert, but it's not easy. The more interest this repository will collect, the more I will devote myself to it.
  
